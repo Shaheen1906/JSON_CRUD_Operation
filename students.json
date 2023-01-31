@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "prachi",
+        "rollno": 21,
+        "age": 24
+    },
+    {
+        "id": 2,
+        "name": "shaheen",
+        "rollno": 21,
+        "age": 24
+    },
+    {
+        "id": 3,
+        "name": "bhargav",
+        "rollno": 21,
+        "age": 24
+    },
+    {
+        "id": 4,
+        "name": "Anu",
+        "rollno": 21,
+        "age": 24
+    }
+]
